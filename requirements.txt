@@ -1,0 +1,18 @@
+# FTS-xRooFit-Demo Requirements
+# Python dependencies for Focused Test Statistics implementation
+
+# Core scientific computing
+numpy>=1.20.0
+matplotlib>=3.3.0
+scipy>=1.7.0
+
+# Jupyter support (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Progress bars for toy generation
+tqdm>=4.60.0
+
+# Note: ROOT and xRooFit must be installed separately
+# See README.md for ROOT installation instructions

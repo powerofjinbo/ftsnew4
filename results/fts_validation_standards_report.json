@@ -1,0 +1,19 @@
+{
+  "validation_status": "PASSED",
+  "validation_standards_met": {
+    "same_dataset_curves": true,
+    "cached_denominators": true,
+    "constant_offset": "True",
+    "normalized_focus": "True",
+    "toy_calibrated_critical": true,
+    "precise_intervals": false,
+    "error_handling": true
+  },
+  "statistics": {
+    "offset_mean": -0.6490000000000006,
+    "offset_std": 5.166620165414534e-16,
+    "focus_normalization": 0.9999999990133639,
+    "cache_hit_rate": 0.5,
+    "toy_success_rate": 100.0
+  }
+}

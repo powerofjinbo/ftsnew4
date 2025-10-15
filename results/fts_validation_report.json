@@ -1,0 +1,22 @@
+{
+  "validation_status": "PASSED",
+  "validation_standards_met": {
+    "same_dataset_curves": true,
+    "cached_denominators": true,
+    "constant_offset": true,
+    "normalized_focus": "True",
+    "toy_calibrated_critical": true,
+    "precise_intervals": true,
+    "error_handling": true
+  },
+  "statistics": {
+    "offset_mean": -2.8430070884416825,
+    "offset_std": 1.5152354455641505e-15,
+    "baseline_numeric": -2.8430070884416834,
+    "baseline_laplace": -2.843070434383825,
+    "baseline_gap": 6.334594214152389e-05,
+    "focus_normalization": 0.9999999990133639,
+    "cache_hit_rate": 0.10199004975124377,
+    "toy_success_rate": 100.0
+  }
+}

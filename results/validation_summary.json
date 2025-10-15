@@ -1,0 +1,23 @@
+{
+  "validation_type": "FTS vs LRT Comparison",
+  "focus_center": 0.0,
+  "focus_width": 1.5,
+  "test_points": 7,
+  "fts_statistics": {
+    "mean": -0.3483825942230356,
+    "std": 0.29401839660289314,
+    "min": -0.6445214081322774,
+    "max": 0.15856949886014604
+  },
+  "pvalue_statistics": {
+    "mean": 0.955782424777296,
+    "min": 0.6904769734410718,
+    "max": 1.0
+  },
+  "constant_offset": {
+    "theoretical": -0.649,
+    "empirical_mean": -0.6490466727976768,
+    "empirical_std": 1.0378875370314633e-07,
+    "consistency": 4.667279767678334e-05
+  }
+}
