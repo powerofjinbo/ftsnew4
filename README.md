@@ -1,4 +1,4 @@
-# FTS-xRooFit-Demo: Focused Test Statistics Implementation
+# FTS: Focused Test Statistics Implementation
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![ROOT](https://img.shields.io/badge/ROOT-6.24%2B-orange)](https://root.cern)
